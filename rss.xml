@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Jacky St. James]]></title>
         <description><![CDATA[Jacky St. James]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jackystjames/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 03:58:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 04:12:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jackystjames/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4328ac9d-1373-48d7-b2d7-bb227b4f3cff.png">]]></description>
+            <link>https://thegrid.ai/jackystjames/538964a4-db43-4c6d-b7fa-747471be8a83/index.html</link>
+            <guid isPermaLink="false">538964a4-db43-4c6d-b7fa-747471be8a83</guid>
+            <pubDate>Mon, 25 Jan 2016 04:12:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This is my new site. It's a test. But It's mine. Yay! First Post:]]></title>
             <description><![CDATA[<article><h1>This is my new site. It's a test. But It's mine. Yay! First Post:</h1><p>I'll add more posts in the future. Stay Tuned.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f7444a3b026438889123efb55fd174b3c62dfaf.jpg"></article>]]></description>
-            <link>undefinedthis-is-my-new-site-its-a-test-but-its-mine-yay-first/index.html</link>
+            <link>https://thegrid.ai/jackystjames/this-is-my-new-site-its-a-test-but-its-mine-yay-first/index.html</link>
             <guid isPermaLink="false">98a82386-e588-43eb-926f-c477dcb5bd96</guid>
             <pubDate>Mon, 25 Jan 2016 03:58:01 GMT</pubDate>
         </item>
