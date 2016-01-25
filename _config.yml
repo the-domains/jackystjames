@@ -1,6 +1,6 @@
 name: JackyStjames
 favicon: null
-layout_spectrum: 0.30054
+layout_spectrum: 0.75719
 typography_spectrum: 0.41576
 title: Jacky St. James
 cta:
@@ -18,12 +18,12 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#e3dcd6'
-    - '#deae97'
-    - '#b2765e'
-    - '#834e3c'
+    - '#d8a387'
+    - '#b87051'
+    - '#21140f'
+    - '#764d31'
   brandStrength: 0.5
-  lightness: 0.5625
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
